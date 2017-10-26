@@ -1,0 +1,269 @@
+1505307333971	geckodriver	INFO	geckodriver 0.18.0
+1505307334002	geckodriver	INFO	Listening on 127.0.0.1:57805
+1505307336111	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1505307337382	addons.manager	DEBUG	Application has been upgraded
+1505307337764	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/XPIProvider.jsm: ["XPIProvider"]
+1505307337770	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/LightweightThemeManager.jsm: ["LightweightThemeManager"]
+1505307337783	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/GMPProvider.jsm
+1505307337792	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/PluginProvider.jsm
+1505307337795	addons.manager	DEBUG	Starting provider: XPIProvider
+1505307337796	addons.xpi	DEBUG	startup
+1505307337798	addons.xpi	INFO	Removing all system add-on upgrades.
+1505307337801	addons.xpi	INFO	SystemAddonInstallLocation directory is missing
+1505307337805	addons.xpi	INFO	Mapping aushelper@mozilla.org to C:\Program Files (x86)\Mozilla Firefox\browser\features\aushelper@mozilla.org.xpi
+1505307337806	addons.xpi	INFO	Mapping e10srollout@mozilla.org to C:\Program Files (x86)\Mozilla Firefox\browser\features\e10srollout@mozilla.org.xpi
+1505307337808	addons.xpi	INFO	Mapping firefox@getpocket.com to C:\Program Files (x86)\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1505307337809	addons.xpi	INFO	Mapping screenshots@mozilla.org to C:\Program Files (x86)\Mozilla Firefox\browser\features\screenshots@mozilla.org.xpi
+1505307337811	addons.xpi	INFO	Mapping webcompat@mozilla.org to C:\Program Files (x86)\Mozilla Firefox\browser\features\webcompat@mozilla.org.xpi
+1505307337815	addons.xpi	INFO	Mapping {972ce4c6-7e08-4474-a285-3208198ce6fd} to C:\Program Files (x86)\Mozilla Firefox\browser\extensions\{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi
+1505307337817	addons.xpi	DEBUG	checkForChanges
+1505307337818	addons.xpi	INFO	SystemAddonInstallLocation directory is missing
+1505307337820	addons.xpi	DEBUG	Loaded add-on state from prefs: {}
+1505307337823	addons.xpi	DEBUG	New add-on aushelper@mozilla.org in app-system-defaults
+1505307337825	addons.xpi	DEBUG	getModTime: Recursive scan of aushelper@mozilla.org
+1505307337827	addons.xpi	DEBUG	New add-on e10srollout@mozilla.org in app-system-defaults
+1505307337829	addons.xpi	DEBUG	getModTime: Recursive scan of e10srollout@mozilla.org
+1505307337835	addons.xpi	DEBUG	New add-on firefox@getpocket.com in app-system-defaults
+1505307337837	addons.xpi	DEBUG	getModTime: Recursive scan of firefox@getpocket.com
+1505307337839	addons.xpi	DEBUG	New add-on screenshots@mozilla.org in app-system-defaults
+1505307337840	addons.xpi	DEBUG	getModTime: Recursive scan of screenshots@mozilla.org
+1505307337841	addons.xpi	DEBUG	New add-on webcompat@mozilla.org in app-system-defaults
+1505307337843	addons.xpi	DEBUG	getModTime: Recursive scan of webcompat@mozilla.org
+1505307337845	addons.xpi	DEBUG	New add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} in app-global
+1505307337845	addons.xpi	DEBUG	getModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}
+1505307337848	addons.xpi	DEBUG	getInstallState changed: true, state: {"app-system-defaults":{"aushelper@mozilla.org":{"d":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\features\\aushelper@mozilla.org.xpi","st":1498666862000},"e10srollout@mozilla.org":{"d":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\features\\e10srollout@mozilla.org.xpi","st":1498666862000},"firefox@getpocket.com":{"d":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\features\\firefox@getpocket.com.xpi","st":1498666863000},"screenshots@mozilla.org":{"d":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\features\\screenshots@mozilla.org.xpi","st":1498666863000},"webcompat@mozilla.org":{"d":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\features\\webcompat@mozilla.org.xpi","st":1498666862000}},"app-global":{"{972ce4c6-7e08-4474-a285-3208198ce6fd}":{"d":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\extensions\\{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi","st":1498666862000}}}
+1505307337885	addons.xpi-utils	DEBUG	Opening XPI database C:\Users\giwab-2\AppData\Local\Temp\rust_mozprofile.CaA0Ta0BMRFy\extensions.json
+1505307337905	addons.xpi-utils	DEBUG	New add-on aushelper@mozilla.org installed in app-system-defaults
+*** Blocklist::_loadBlocklistFromFile: blocklist is disabled
+1505307337943	DeferredSave.extensions.json	DEBUG	Save changes
+1505307337945	addons.xpi-utils	DEBUG	New add-on e10srollout@mozilla.org installed in app-system-defaults
+1505307337957	DeferredSave.extensions.json	DEBUG	Starting timer
+1505307337963	DeferredSave.extensions.json	DEBUG	Save changes
+1505307337964	addons.xpi-utils	DEBUG	New add-on firefox@getpocket.com installed in app-system-defaults
+1505307337987	DeferredSave.extensions.json	DEBUG	Save changes
+1505307337988	addons.xpi-utils	DEBUG	New add-on screenshots@mozilla.org installed in app-system-defaults
+1505307338011	DeferredSave.extensions.json	DEBUG	Save changes
+1505307338014	addons.xpi-utils	DEBUG	New add-on webcompat@mozilla.org installed in app-system-defaults
+1505307338030	DeferredSave.extensions.json	DEBUG	Save changes
+1505307338032	addons.xpi-utils	DEBUG	New add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} installed in app-global
+1505307338047	DeferredSave.extensions.json	DEBUG	Save changes
+1505307338051	addons.manager	DEBUG	Registering startup change 'installed' for aushelper@mozilla.org
+1505307338073	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files (x86)\Mozilla Firefox\browser\features\aushelper@mozilla.org.xpi
+1505307338090	addons.xpi	DEBUG	Calling bootstrap method install on aushelper@mozilla.org version 2.0
+1505307338090	addons.xpi-utils	DEBUG	Make addon app-system-defaults:aushelper@mozilla.org visible
+1505307338092	DeferredSave.extensions.json	DEBUG	Save changes
+1505307338094	addons.manager	DEBUG	Registering startup change 'installed' for e10srollout@mozilla.org
+1505307338096	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files (x86)\Mozilla Firefox\browser\features\e10srollout@mozilla.org.xpi
+1505307338105	addons.xpi	DEBUG	Calling bootstrap method install on e10srollout@mozilla.org version 1.50
+1505307338109	addons.xpi-utils	DEBUG	Make addon app-system-defaults:e10srollout@mozilla.org visible
+1505307338111	DeferredSave.extensions.json	DEBUG	Save changes
+1505307338112	addons.manager	DEBUG	Registering startup change 'installed' for firefox@getpocket.com
+1505307338114	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files (x86)\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1505307338126	addons.xpi	DEBUG	Calling bootstrap method install on firefox@getpocket.com version 1.0.5
+1505307338126	addons.xpi-utils	DEBUG	Make addon app-system-defaults:firefox@getpocket.com visible
+1505307338127	DeferredSave.extensions.json	DEBUG	Save changes
+1505307338128	addons.manager	DEBUG	Registering startup change 'installed' for screenshots@mozilla.org
+1505307338130	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files (x86)\Mozilla Firefox\browser\features\screenshots@mozilla.org.xpi
+1505307338139	addons.xpi	DEBUG	Calling bootstrap method install on screenshots@mozilla.org version 6.6.0
+1505307338140	addons.xpi-utils	DEBUG	Make addon app-system-defaults:screenshots@mozilla.org visible
+1505307338141	DeferredSave.extensions.json	DEBUG	Save changes
+1505307338142	addons.manager	DEBUG	Registering startup change 'installed' for webcompat@mozilla.org
+1505307338143	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files (x86)\Mozilla Firefox\browser\features\webcompat@mozilla.org.xpi
+1505307338151	addons.xpi	DEBUG	Calling bootstrap method install on webcompat@mozilla.org version 1.1
+1505307338152	addons.xpi-utils	DEBUG	Make addon app-system-defaults:webcompat@mozilla.org visible
+1505307338154	DeferredSave.extensions.json	DEBUG	Save changes
+1505307338155	addons.xpi-utils	DEBUG	Make addon app-global:{972ce4c6-7e08-4474-a285-3208198ce6fd} visible
+1505307338156	DeferredSave.extensions.json	DEBUG	Save changes
+1505307338157	addons.xpi	DEBUG	Updating XPIState for {"id":"aushelper@mozilla.org","syncGUID":"{3f9590a2-d051-4f93-8b0f-1ea645436481}","location":"app-system-defaults","version":"2.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Application Update Service Helper","description":"Sets value(s) in the update url based on custom checks.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\features\\aushelper@mozilla.org.xpi","installDate":1498666862000,"updateDate":1498666862000,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":8488,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"54.0.1","maxVersion":"54.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null}
+1505307338158	addons.xpi	DEBUG	getModTime: Recursive scan of aushelper@mozilla.org
+1505307338160	addons.xpi	DEBUG	Updating XPIState for {"id":"e10srollout@mozilla.org","syncGUID":"{59ade53c-ed79-47af-85f2-e98e4f393ee6}","location":"app-system-defaults","version":"1.50","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Multi-process staged rollout","description":"Staged rollout of Firefox multi-process feature.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\features\\e10srollout@mozilla.org.xpi","installDate":1498666862000,"updateDate":1498666862000,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":12519,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"54.0.1","maxVersion":"54.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null}
+1505307338160	addons.xpi	DEBUG	getModTime: Recursive scan of e10srollout@mozilla.org
+1505307338162	addons.xpi	DEBUG	Updating XPIState for {"id":"firefox@getpocket.com","syncGUID":"{1b507a44-2519-4d1f-ae79-08149714c0aa}","location":"app-system-defaults","version":"1.0.5","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Pocket","description":"When you find something you want to view later, put it in Pocket.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\features\\firefox@getpocket.com.xpi","installDate":1498666863000,"updateDate":1498666863000,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":913906,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"54.0.1","maxVersion":"54.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null}
+1505307338162	addons.xpi	DEBUG	getModTime: Recursive scan of firefox@getpocket.com
+1505307338164	addons.xpi	DEBUG	Updating XPIState for {"id":"screenshots@mozilla.org","syncGUID":"{42d5d805-2827-436c-987a-7f3d1665b1e5}","location":"app-system-defaults","version":"6.6.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Firefox Screenshots","description":null,"creator":null,"homepageURL":"https://pageshot.net/"},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\features\\screenshots@mozilla.org.xpi","installDate":1498666863000,"updateDate":1498666863000,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":716271,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"51.0a1","maxVersion":"*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null}
+1505307338164	addons.xpi	DEBUG	getModTime: Recursive scan of screenshots@mozilla.org
+1505307338166	addons.xpi	DEBUG	Updating XPIState for {"id":"webcompat@mozilla.org","syncGUID":"{a5461aa4-263c-489f-b963-e83e1b41ccff}","location":"app-system-defaults","version":"1.1","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Web Compat","description":"Urgent post-release fixes for web compatibility.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\features\\webcompat@mozilla.org.xpi","installDate":1498666862000,"updateDate":1498666862000,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":9006,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"54.0.1","maxVersion":"54.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false,"userPermissions":null}
+1505307338167	addons.xpi	DEBUG	getModTime: Recursive scan of webcompat@mozilla.org
+1505307338169	addons.xpi	DEBUG	Updating XPIState for {"id":"{972ce4c6-7e08-4474-a285-3208198ce6fd}","syncGUID":"{240aced5-cce8-4f86-9f6f-076930ed935d}","location":"app-global","version":"54.0.1","type":"theme","internalName":"classic/1.0","updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":"chrome://browser/content/default-theme-icon.svg","icon64URL":null,"defaultLocale":{"name":"Default","description":"The default theme.","creator":"Mozilla","homepageURL":null,"contributors":["Mozilla Contributors"]},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\extensions\\{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi","installDate":1498666862000,"updateDate":1498666862000,"applyBackgroundUpdates":1,"skinnable":true,"size":8207,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":true,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"54.0.1","maxVersion":"54.0.1"}],"targetPlatforms":[],"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"userPermissions":null}
+1505307338170	addons.xpi	DEBUG	getModTime: Recursive scan of {972ce4c6-7e08-4474-a285-3208198ce6fd}
+1505307338173	DeferredSave.extensions.json	DEBUG	Save changes
+1505307338173	addons.xpi	DEBUG	Updating database with changes to installed add-ons
+1505307338173	addons.xpi-utils	DEBUG	Updating add-on states
+1505307338183	addons.xpi-utils	DEBUG	Writing add-ons list
+1505307338216	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\aushelper@mozilla.org.xpi
+1505307338219	addons.xpi	DEBUG	Calling bootstrap method startup on aushelper@mozilla.org version 2.0
+1505307338225	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\e10srollout@mozilla.org.xpi
+1505307338228	addons.xpi	DEBUG	Calling bootstrap method startup on e10srollout@mozilla.org version 1.50
+1505307338230	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1505307338232	addons.xpi	DEBUG	Calling bootstrap method startup on firefox@getpocket.com version 1.0.5
+1505307338236	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\screenshots@mozilla.org.xpi
+1505307338238	addons.xpi	DEBUG	Calling bootstrap method startup on screenshots@mozilla.org version 6.6.0
+1505307338240	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\webcompat@mozilla.org.xpi
+1505307338242	addons.xpi	DEBUG	Calling bootstrap method startup on webcompat@mozilla.org version 1.1
+1505307338258	addons.manager	DEBUG	Registering shutdown blocker for XPIProvider
+1505307338261	addons.manager	DEBUG	Provider finished startup: XPIProvider
+1505307338262	addons.manager	DEBUG	Starting provider: LightweightThemeManager
+1505307338263	addons.manager	DEBUG	Registering shutdown blocker for LightweightThemeManager
+1505307338263	addons.manager	DEBUG	Provider finished startup: LightweightThemeManager
+1505307338265	addons.manager	DEBUG	Starting provider: GMPProvider
+1505307338301	addons.manager	DEBUG	Registering shutdown blocker for GMPProvider
+1505307338302	addons.manager	DEBUG	Provider finished startup: GMPProvider
+1505307338303	addons.manager	DEBUG	Starting provider: PluginProvider
+1505307338304	addons.manager	DEBUG	Registering shutdown blocker for PluginProvider
+1505307338305	addons.manager	DEBUG	Provider finished startup: PluginProvider
+1505307338307	addons.manager	DEBUG	Completed startup sequence
+1505307340786	addons.manager	DEBUG	Starting provider: <unnamed-provider>
+1505307340786	addons.manager	DEBUG	Registering shutdown blocker for <unnamed-provider>
+1505307340788	addons.manager	DEBUG	Provider finished startup: <unnamed-provider>
+1505307340886	addons.manager	DEBUG	Starting provider: PreviousExperimentProvider
+1505307340887	addons.manager	DEBUG	Registering shutdown blocker for PreviousExperimentProvider
+1505307340887	addons.manager	DEBUG	Provider finished startup: PreviousExperimentProvider
+1505307340936	DeferredSave.extensions.json	DEBUG	Starting write
+1505307341711	DeferredSave.extensions.json	DEBUG	Write succeeded
+1505307341714	addons.xpi-utils	DEBUG	XPI Database saved, setting schema version preference to 19
+1505307348932	Marionette	INFO	Listening on port 57811
+1505307349064	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505307349188	Marionette	DEBUG	loaded listener.js
+1505307349532	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505307349550	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505307349551	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505307349576	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "about:blank"
+1505307349581	Marionette	DEBUG	Received DOM event "pageshow" for "about:blank"
+1505307349753	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505307350761	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505307350762	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505307354241	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/"
+1505307354514	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.13FX2._V517805819_.html"
+1505307354523	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.13FX2._V517805819_.html"
+1505307354604	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/"
+1505307355816	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.amazon.com/"
+1505307356027	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.amazon.com/"
+1505307356033	Marionette	DEBUG	Received DOM event "unload" for "https://www.amazon.com/"
+1505307357921	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1505307357926	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1505307357995	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/s/ref=nb_sb_noss/145-4535928-1392159?url=search-alias%3Daps&field-keywords=Lamborghini+Gallardo"
+1505307358002	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/s/ref=nb_sb_noss/145-4535928-1392159?url=search-alias%3Daps&field-keywords=Lamborghini+Gallardo"
+1505307358125	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/s/ref=nb_sb_noss/145-4535928-1392159?url=search-alias%3Daps&field-keywords=Lamborghini+Gallardo"
+1505307358652	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/s/ref=nb_sb_noss/145-4535928-1392159?url=search-alias%3Daps&field-keywords=Lamborghini+Gallardo"
+1505307358806	Marionette	INFO	New connections will no longer be accepted
+1505307358939	addons.xpi	DEBUG	Calling bootstrap method shutdown on webcompat@mozilla.org version 1.1
+1505307358941	addons.xpi	DEBUG	Calling bootstrap method shutdown on screenshots@mozilla.org version 6.6.0
+1505307358944	addons.xpi	DEBUG	Calling bootstrap method shutdown on firefox@getpocket.com version 1.0.5
+1505307358947	addons.xpi	DEBUG	Calling bootstrap method shutdown on e10srollout@mozilla.org version 1.50
+1505307358950	addons.xpi	DEBUG	Calling bootstrap method shutdown on aushelper@mozilla.org version 2.0
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4,name=PAPZCTreeManager::Msg_UpdateZoomConstraints) Channel error: cannot send/recv
+
+[Child 10564] WARNING: pipe error: 232: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+x0;click=https%3A%2F%2Faax-us-east.amazon-adsystem.com%2Fx%2Fc%2FQj7nXPiOwkzJjPw6VUyI9sIAAAFee0vOVwEAAAH0ATq-c48%2F;dc_rfl=1,https%3A%2F%2Fwww.amazon.com%2F$0;xdt=1;crlt=AYiJF1Abx_;sttr=478;prcl=s?"
+1505307129328	Marionette	DEBUG	Received DOM event "pageshow" for "https://ad.doubleclick.net/ddm/adi/N8667.160337.AMAZON.COM/B20061013.202176350;dc_ver=40.106;sz=300x250;u_sd=1;dc_adk=3706533754;ord=tqbbx0;click=https%3A%2F%2Faax-us-east.amazon-adsystem.com%2Fx%2Fc%2FQj7nXPiOwkzJjPw6VUyI9sIAAAFee0vOVwEAAAH0ATq-c48%2F;dc_rfl=1,https%3A%2F%2Fwww.amazon.com%2F$0;xdt=1;crlt=AYiJF1Abx_;sttr=478;prcl=s?"
+1505307129334	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.13FX2._V517805819_.html"
+1505307129391	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/"
+1505307131099	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.amazon.com/"
+1505307131550	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.amazon.com/"
+1505307131573	Marionette	DEBUG	Received DOM event "unload" for "https://www.amazon.com/"
+1505307134052	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1505307134058	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1505307134065	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1505307134071	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1505307134078	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1505307134084	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1505307134138	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/s/ref=nb_sb_noss/133-1544958-2277535?url=search-alias%3Daps&field-keywords=Lamborghini+Gallardo"
+1505307134142	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/s/ref=nb_sb_noss/133-1544958-2277535?url=search-alias%3Daps&field-keywords=Lamborghini+Gallardo"
+1505307134484	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/s/ref=nb_sb_noss/133-1544958-2277535?url=search-alias%3Daps&field-keywords=Lamborghini+Gallardo"
+1505307134514	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/s/ref=nb_sb_noss/133-1544958-2277535?url=search-alias%3Daps&field-keywords=Lamborghini+Gallardo"
+1505307134754	Marionette	INFO	New connections will no longer be accepted
+1505307134831	addons.xpi	DEBUG	Calling bootstrap method shutdown on webcompat@mozilla.org version 1.1
+1505307134837	addons.xpi	DEBUG	Calling bootstrap method shutdown on screenshots@mozilla.org version 6.6.0
+1505307134840	addons.xpi	DEBUG	Calling bootstrap method shutdown on firefox@getpocket.com version 1.0.5
+1505307134846	addons.xpi	DEBUG	Calling bootstrap method shutdown on e10srollout@mozilla.org version 1.50
+1505307134851	addons.xpi	DEBUG	Calling bootstrap method shutdown on aushelper@mozilla.org version 2.0
+https://tpc.googlesyndication.com/sodar/9im3l02I.html"
+1505306219976	Marionette	DEBUG	Received DOM event "pageshow" for "https://tpc.googlesyndication.com/sodar/9im3l02I.html"
+1505306219990	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.13FX2._V517805819_.html"
+1505306220577	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://cdn3.doubleverify.com/t2tv7.html"
+1505306220588	Marionette	DEBUG	Received DOM event "pageshow" for "https://cdn3.doubleverify.com/t2tv7.html"
+1505306220610	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s0.2mdn.net/8025626/1503928819297/BUS_BDL_ENG_3490ChampBoldYellow1000000635_GETNOW_3490TP_HTML_300x250/BUS_BDL_ENG_3490ChampBoldYellow1000000635_GETNOW_3490TP_HTML_300x250.html"
+1505306220772	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.13FX2._V517805819_.html"
+1505306221025	Marionette	DEBUG	Received DOM event "pageshow" for "https://s0.2mdn.net/8025626/1503928819297/BUS_BDL_ENG_3490ChampBoldYellow1000000635_GETNOW_3490TP_HTML_300x250/BUS_BDL_ENG_3490ChampBoldYellow1000000635_GETNOW_3490TP_HTML_300x250.html"
+1505306221061	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ad.doubleclick.net/ddm/adi/N8667.160337.AMAZON.COM/B20061013.200818157;dc_ver=40.106;sz=300x250;u_sd=1;dc_adk=146886427;ord=dk5u5v;click=https%3A%2F%2Faax-us-east.amazon-adsystem.com%2Fx%2Fc%2FQrR9Fvw1l0mBmvjNm4F4mikAAAFeez31hgEAAAH0AVz2yMY%2F;dc_rfl=1,https%3A%2F%2Fwww.amazon.com%2FLamborghini-Gallardo-560-4-Mini-Licensed%2Fdp%2FB01M0ATYF5%2Fref%3Dsr_1_1_sspa%3Fie%3DUTF8%26qid%3D1505306206%26sr%3D8-1-spons%26keywords%3DLamborghini%2BGallardo%26psc%3D1$0;xdt=1;crlt=VZnmKF-TqT;sttr=474;prcl=s?"
+1505306221162	Marionette	DEBUG	Received DOM event "pageshow" for "https://ad.doubleclick.net/ddm/adi/N8667.160337.AMAZON.COM/B20061013.200818157;dc_ver=40.106;sz=300x250;u_sd=1;dc_adk=146886427;ord=dk5u5v;click=https%3A%2F%2Faax-us-east.amazon-adsystem.com%2Fx%2Fc%2FQrR9Fvw1l0mBmvjNm4F4mikAAAFeez31hgEAAAH0AVz2yMY%2F;dc_rfl=1,https%3A%2F%2Fwww.amazon.com%2FLamborghini-Gallardo-560-4-Mini-Licensed%2Fdp%2FB01M0ATYF5%2Fref%3Dsr_1_1_sspa%3Fie%3DUTF8%26qid%3D1505306206%26sr%3D8-1-spons%26keywords%3DLamborghini%2BGallardo%26psc%3D1$0;xdt=1;crlt=VZnmKF-TqT;sttr=474;prcl=s?"
+1505306221177	Marionette	DEBUG	Received DOM event "pageshow" for "https://ad.doubleclick.net/ddm/adi/N8667.160337.AMAZON.COM/B20061013.200818157;dc_ver=40.106;sz=300x250;u_sd=1;dc_adk=146886427;ord=dk5u5v;click=https%3A%2F%2Faax-us-east.amazon-adsystem.com%2Fx%2Fc%2FQrR9Fvw1l0mBmvjNm4F4mikAAAFeez31hgEAAAH0AVz2yMY%2F;dc_rfl=1,https%3A%2F%2Fwww.amazon.com%2FLamborghini-Gallardo-560-4-Mini-Licensed%2Fdp%2FB01M0ATYF5%2Fref%3Dsr_1_1_sspa%3Fie%3DUTF8%26qid%3D1505306206%26sr%3D8-1-spons%26keywords%3DLamborghini%2BGallardo%26psc%3D1$0;xdt=1;crlt=VZnmKF-TqT;sttr=474;prcl=s?"
+1505306221185	Marionette	DEBUG	Received DOM event "pageshow" for "https://images-na.ssl-images-amazon.com/images/G/01/ape/sf/desktop/sf-1.13FX2._V517805819_.html"
+1505306221255	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/Lamborghini-Gallardo-560-4-Mini-Licensed/dp/B01M0ATYF5/ref=sr_1_1_sspa?ie=UTF8&qid=1505306206&sr=8-1-spons&keywords=Lamborghini+Gallardo&psc=1"
+1505306221923	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.amazon.com/Lamborghini-Gallardo-560-4-Mini-Licensed/dp/B01M0ATYF5/ref=sr_1_1_sspa?ie=UTF8&qid=1505306206&sr=8-1-spons&keywords=Lamborghini+Gallardo&psc=1"
+1505306222312	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.amazon.com/Lamborghini-Gallardo-560-4-Mini-Licensed/dp/B01M0ATYF5/ref=sr_1_1_sspa?ie=UTF8&qid=1505306206&sr=8-1-spons&keywords=Lamborghini+Gallardo&psc=1"
+1505306222326	Marionette	DEBUG	Received DOM event "unload" for "https://www.amazon.com/Lamborghini-Gallardo-560-4-Mini-Licensed/dp/B01M0ATYF5/ref=sr_1_1_sspa?ie=UTF8&qid=1505306206&sr=8-1-spons&keywords=Lamborghini+Gallardo&psc=1"
+1505306222866	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483679"
+1505306222872	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1505306222878	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1505306222883	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483673"
+1505306222895	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483688"
+1505306222900	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483690"
+1505306222906	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483681"
+1505306222914	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483700"
+1505306222920	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483695"
+1505306222928	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483705"
+1505306222934	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483702"
+1505306222946	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483696"
+1505306222955	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483687"
+1505306222962	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483682"
+1505306222968	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483683"
+1505306223421	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/gp/product/handle-buy-box/ref=dp_start-bbf_1_glance"
+1505306223443	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/gp/product/handle-buy-box/ref=dp_start-bbf_1_glance"
+1505306224011	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.amazon.com/gp/product/handle-buy-box/ref=dp_start-bbf_1_glance"
+1505306224209	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.amazon.com/gp/product/handle-buy-box/ref=dp_start-bbf_1_glance"
+1505306224457	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.amazon.com/gp/product/handle-buy-box/ref=dp_start-bbf_1_glance"
+1505306224457	Marionette	DEBUG	Received DOM event "unload" for "https://www.amazon.com/gp/product/handle-buy-box/ref=dp_start-bbf_1_glance"
+1505306224576	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://s.amazon-adsystem.com/v3/pr?exlist=pp_sx_ns_rx_kr_g_bsw_ox_index_aold_an_rb_br_fbca_aolv_twca_y_pm_adb_tbl&fv=1.0&ex-pl-fbca=JqvjAHqRTLmDM-p40x__Kg&ex-pl-twca=pO5nVRksS52GgXCnjZS-Gg&a=cm&ep=iu4T3pM3qnhCz9upaKw6Pa2vPFyYEP1a2O0_3v1g1Tlu1ChrSd7ke3FVoNDke-fk"
+1505306225556	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/ap/signin?_encoding=UTF8&openid.assoc_handle=amazon_checkout_us&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fbuy%2Fsignin%2Fhandlers%2Fcontinue.html%3Fie%3DUTF8%26cartItemIds%3D%26eGCApp%3D%26hasWorkingJavascript%3D0%26isEGCOrder%3D0%26isFresh%3D0%26oldCustomerId%3D%26oldPurchaseId%3D%26preInitiateCustomerId%3D%26purchaseInProgress%3D%26siteDesign%3D&pageId=amazon_checkout_us&showRmrMe=0&siteState=isRegularCheckout.1%7CIMBMsgs.%7CisRedirect.0"
+1505306225581	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483711"
+1505306225588	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483708"
+1505306225597	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/ap/signin?_encoding=UTF8&openid.assoc_handle=amazon_checkout_us&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fbuy%2Fsignin%2Fhandlers%2Fcontinue.html%3Fie%3DUTF8%26cartItemIds%3D%26eGCApp%3D%26hasWorkingJavascript%3D0%26isEGCOrder%3D0%26isFresh%3D0%26oldCustomerId%3D%26oldPurchaseId%3D%26preInitiateCustomerId%3D%26purchaseInProgress%3D%26siteDesign%3D&pageId=amazon_checkout_us&showRmrMe=0&siteState=isRegularCheckout.1%7CIMBMsgs.%7CisRedirect.0"
+1505306225601	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/ap/signin?_encoding=UTF8&openid.assoc_handle=amazon_checkout_us&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fbuy%2Fsignin%2Fhandlers%2Fcontinue.html%3Fie%3DUTF8%26cartItemIds%3D%26eGCApp%3D%26hasWorkingJavascript%3D0%26isEGCOrder%3D0%26isFresh%3D0%26oldCustomerId%3D%26oldPurchaseId%3D%26preInitiateCustomerId%3D%26purchaseInProgress%3D%26siteDesign%3D&pageId=amazon_checkout_us&showRmrMe=0&siteState=isRegularCheckout.1%7CIMBMsgs.%7CisRedirect.0"
+1505306226008	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/ap/signin?_encoding=UTF8&openid.assoc_handle=amazon_checkout_us&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fbuy%2Fsignin%2Fhandlers%2Fcontinue.html%3Fie%3DUTF8%26cartItemIds%3D%26eGCApp%3D%26hasWorkingJavascript%3D0%26isEGCOrder%3D0%26isFresh%3D0%26oldCustomerId%3D%26oldPurchaseId%3D%26preInitiateCustomerId%3D%26purchaseInProgress%3D%26siteDesign%3D&pageId=amazon_checkout_us&showRmrMe=0&siteState=isRegularCheckout.1%7CIMBMsgs.%7CisRedirect.0"
+1505306227301	Marionette	INFO	New connections will no longer be accepted
+1505306228053	addons.xpi	DEBUG	Calling bootstrap method shutdown on webcompat@mozilla.org version 1.1
+1505306228055	addons.xpi	DEBUG	Calling bootstrap method shutdown on screenshots@mozilla.org version 6.6.0
+1505306228058	addons.xpi	DEBUG	Calling bootstrap method shutdown on firefox@getpocket.com version 1.0.5
+1505306228062	addons.xpi	DEBUG	Calling bootstrap method shutdown on e10srollout@mozilla.org version 1.50
+1505306228065	addons.xpi	DEBUG	Calling bootstrap method shutdown on aushelper@mozilla.org version 2.0
+7483687"
+1505306183145	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/gp/product/handle-buy-box/ref=dp_start-bbf_1_glance"
+1505306183169	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/gp/product/handle-buy-box/ref=dp_start-bbf_1_glance"
+1505306183336	Marionette	INFO	New connections will no longer be accepted
+1505306183444	addons.xpi	DEBUG	Calling bootstrap method shutdown on webcompat@mozilla.org version 1.1
+1505306183446	addons.xpi	DEBUG	Calling bootstrap method shutdown on screenshots@mozilla.org version 6.6.0
+1505306183449	addons.xpi	DEBUG	Calling bootstrap method shutdown on firefox@getpocket.com version 1.0.5
+1505306183453	addons.xpi	DEBUG	Calling bootstrap method shutdown on e10srollout@mozilla.org version 1.50
+1505306183457	addons.xpi	DEBUG	Calling bootstrap method shutdown on aushelper@mozilla.org version 2.0
+	Received observer notification "outer-window-destroyed" for "2147483718"
+1502720315099	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483716"
+1502720315104	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483700"
+1502720315108	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483714"
+1502720315116	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483711"
+1502720315121	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483697"
+1502720315123	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483704"
+1502720315127	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483705"
+1502720315131	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483708"
+1502720315137	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483724"
+1502720318747	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/gp/product/handle-buy-box/ref=dp_start-bbf_1_glance"
+1502720320070	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/gp/product/handle-buy-box/ref=dp_start-bbf_1_glance"
+1502720321004	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.amazon.com/gp/product/handle-buy-box/ref=dp_start-bbf_1_glance"
+1502720322495	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.amazon.com/gp/huc/view.html?ie=UTF8&newItems=C3FIVYMJ5XEOZY%2C1"
+1502720322511	Marionette	DEBUG	Received DOM event "unload" for "https://www.amazon.com/gp/huc/view.html?ie=UTF8&newItems=C3FIVYMJ5XEOZY%2C1"
+1502720322575	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://images-na.ssl-images-amazon.com/images/I/6111OnqDf2L._RC|01H--hw6CvL.css,31MxFbqyT5L.css,21fiFnLYxlL.css,31ZQTpsW1eL.css,01NHva6qGRL.css,31UlxNhlUML.css_.css?AUIClients/NavDesktopMetaAsset#desktop"
+1502720325037	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483727"
+1502720325043	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483729"
+1502720326348	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/ap/signin?_encoding=UTF8&openid.assoc_handle=amazon_checkout_us&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fbuy%2Fsignin%2Fhandlers%2Fcontinue.html%3Fie%3DUTF8%26cartItemIds%3D%26eGCApp%3D%26hasWorkingJavascript%3D0%26isEGCOrder%3D0%26isFresh%3D0%26oldCustomerId%3D%26oldPurchaseId%3D%26preInitiateCustomerId%3D%26purchaseInProgress%3D%26siteDesign%3D&pageId=amazon_checkout_us&showRmrMe=0&siteState=isRegularCheckout.1%7CIMBMsgs.%7CisRedirect.0"
+1502720326576	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/ap/signin?_encoding=UTF8&openid.assoc_handle=amazon_checkout_us&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fbuy%2Fsignin%2Fhandlers%2Fcontinue.html%3Fie%3DUTF8%26cartItemIds%3D%26eGCApp%3D%26hasWorkingJavascript%3D0%26isEGCOrder%3D0%26isFresh%3D0%26oldCustomerId%3D%26oldPurchaseId%3D%26preInitiateCustomerId%3D%26purchaseInProgress%3D%26siteDesign%3D&pageId=amazon_checkout_us&showRmrMe=0&siteState=isRegularCheckout.1%7CIMBMsgs.%7CisRedirect.0"
+1502720326584	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/ap/signin?_encoding=UTF8&openid.assoc_handle=amazon_checkout_us&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fbuy%2Fsignin%2Fhandlers%2Fcontinue.html%3Fie%3DUTF8%26cartItemIds%3D%26eGCApp%3D%26hasWorkingJavascript%3D0%26isEGCOrder%3D0%26isFresh%3D0%26oldCustomerId%3D%26oldPurchaseId%3D%26preInitiateCustomerId%3D%26purchaseInProgress%3D%26siteDesign%3D&pageId=amazon_checkout_us&showRmrMe=0&siteState=isRegularCheckout.1%7CIMBMsgs.%7CisRedirect.0"
+1502720329412	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.amazon.com/gp/remotepagelet/signin/checkout-perf-initiate-and-store.html?ie=UTF8&siteState=isRegularCheckout.1%7CIMBMsgs.%7CisRedirect.0&hasWorkingJavascript=1"
+1502720329418	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/gp/remotepagelet/signin/checkout-perf-initiate-and-store.html?ie=UTF8&siteState=isRegularCheckout.1%7CIMBMsgs.%7CisRedirect.0&hasWorkingJavascript=1"
+1502720329462	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.amazon.com/ap/signin?_encoding=UTF8&openid.assoc_handle=amazon_checkout_us&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fbuy%2Fsignin%2Fhandlers%2Fcontinue.html%3Fie%3DUTF8%26cartItemIds%3D%26eGCApp%3D%26hasWorkingJavascript%3D0%26isEGCOrder%3D0%26isFresh%3D0%26oldCustomerId%3D%26oldPurchaseId%3D%26preInitiateCustomerId%3D%26purchaseInProgress%3D%26siteDesign%3D&pageId=amazon_checkout_us&showRmrMe=0&siteState=isRegularCheckout.1%7CIMBMsgs.%7CisRedirect.0"
+1502720329780	Marionette	INFO	New connections will no longer be accepted
+1502720329814	addons.xpi	DEBUG	Calling bootstrap method shutdown on webcompat@mozilla.org version 1.1
+1502720329817	addons.xpi	DEBUG	Calling bootstrap method shutdown on screenshots@mozilla.org version 6.6.0
+1502720329821	addons.xpi	DEBUG	Calling bootstrap method shutdown on firefox@getpocket.com version 1.0.5
+1502720329826	addons.xpi	DEBUG	Calling bootstrap method shutdown on e10srollout@mozilla.org version 1.50
+1502720329830	addons.xpi	DEBUG	Calling bootstrap method shutdown on aushelper@mozilla.org version 2.0
